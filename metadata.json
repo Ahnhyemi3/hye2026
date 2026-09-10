@@ -1,0 +1,6 @@
+{
+  "name": "안혜미 포트폴리오",
+  "description": "숫자와 자료의 오류를 확인하고 원인을 찾아 개선하는 회계·경리·경영지원 실무자 안혜미의 포트폴리오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
